@@ -7,7 +7,8 @@ I'm currently a Technical Team Leader at [Redokun](https://redokun.com/) with ov
 - 👨‍💻 Read more about me at [simonedamico.com](https://simonedamico.com)
 - 💭 Ask me anything at [Discussions](https://github.com/dymissy/dymissy/discussions)!
 
+<!--
 ### 📤 Latest newsletter issues
-
+-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
