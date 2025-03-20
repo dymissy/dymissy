@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm [Simone](https://simonedamico.com/)
 
-<!--
-**dymissy/dymissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Technical Team Leader at [Redokun](https://redokun.com/) with over a decade of experience in building large-scale software systems. Passionate about clean code and a strong advocate for Test-Driven Development, I embrace Agile methodologies, Lean principles, and DevOps culture. I share my experiences through the [**Lead Through Mistakes**](https://leadthroughmistakes.substack.com/) newsletter and as speaker at conferences. In my spare time, I’m a full-time dad to two kids and a Lego enthusiast.
 
-Here are some ideas to get you started:
+### ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Read more about me at [simonedamico.com](https://simonedamico.com)
+- 💭 Ask me anything at [Discussions](https://github.com/dymissy/dymissy/discussions)!
+
+### 📤 Latest newsletter issues
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
